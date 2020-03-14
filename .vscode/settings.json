@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe"
+}
